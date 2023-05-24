@@ -1,0 +1,4 @@
+services:
+  ubuntu:
+    build: 
+      dockerfile: ./dockerfiles/ubuntu.dockerfile
